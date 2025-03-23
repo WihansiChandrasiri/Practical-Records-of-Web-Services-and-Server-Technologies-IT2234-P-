@@ -8,7 +8,7 @@ Output of basics of functions
 
 
 Output of Prime Function
-![1BasicFunctions](https://github.com/user-attachments/assets/f3df4ebc-f4af-4eca-9cb5-f9a09c35eddb)
+![primeFunction1](https://github.com/user-attachments/assets/ccd0e4ad-72da-4f40-b3d3-ae63afe867d3)
 
 
 Output of Recursive function
