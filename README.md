@@ -8,12 +8,18 @@ Output
 
 
 02. Insert a data set at once
+![image](https://github.com/user-attachments/assets/4670d9c2-94ee-4f66-b839-f2cb649d930f)
 
 
 03. Insert many data once
+![image](https://github.com/user-attachments/assets/f47d3724-a7f0-4000-ba32-156613646ea4)
+![image](https://github.com/user-attachments/assets/c969de08-1345-4e82-acec-23e3c7d31302)
 
 
 04. Find the details of all students
+![image](https://github.com/user-attachments/assets/af6c62a4-4eeb-42c5-bad6-a667a6d1d372)
+![image](https://github.com/user-attachments/assets/dbc961e0-afff-4fac-8d18-f2a36a87c7c3)
+![image](https://github.com/user-attachments/assets/ae43017c-1db8-4d02-ad99-b4a32ab4c8e2)
 
 
 05. Show only name and age of students
