@@ -5,17 +5,27 @@ Create new collection called "Degrees" in UniDB database
 
 1.Insert Multiple degree records
 
-![image](https://github.com/user-attachments/assets/5e79ba92-dd9d-47d3-8db1-093e9740d49e)
+![image](https://github.com/user-attachments/assets/b8d7e445-9611-4bb9-bc99-985187467119)
 
+![image](https://github.com/user-attachments/assets/02f59ded-335c-4a1f-a44c-c93f7f7b9767)
 
 
 2.Delete a single degree
 
-3.Use projection to view specific fields
+![image](https://github.com/user-attachments/assets/cdd75222-56c2-446a-a152-488ee9e1ea4b)
 
-4.Display results
+![image](https://github.com/user-attachments/assets/5968f2e3-79d0-49cb-bd02-189cf4234e96)
+
+
+3.Use projection to view specific fields
+![image](https://github.com/user-attachments/assets/723bce9f-e838-4aa6-bac6-a7fd2b7d95dd)
+
+4.Display results in pretty way
+![image](https://github.com/user-attachments/assets/7cfb3220-7a1f-49d8-b688-8b1fcb9ad351)
 
 5.Delete Multiple degrees
+
+![image](https://github.com/user-attachments/assets/134514ce-656d-4319-8eba-ce900373ee54)
 
 6.Update one degree record
 
