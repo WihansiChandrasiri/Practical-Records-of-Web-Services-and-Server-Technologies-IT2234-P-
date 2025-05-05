@@ -90,9 +90,24 @@ Output in Grid view
 
 
 16. Sort student details by GPA and name in ascending order
+![image](https://github.com/user-attachments/assets/d9697c25-411d-4b77-8f9f-845a1c478fd7)
+![image](https://github.com/user-attachments/assets/db18c1e9-a86a-421b-a682-9255d103ebff)
+![image](https://github.com/user-attachments/assets/3add41b6-7325-4609-b645-ed5eb9453cc7)
 
+![image](https://github.com/user-attachments/assets/fc4d5594-5e40-4691-ac62-53383b526fc8)
+![image](https://github.com/user-attachments/assets/f5b04f0d-988e-4d42-a643-280fdc7ed958)
+![image](https://github.com/user-attachments/assets/5ca30e77-fc0e-4d06-8f90-39c706dbf984)
 
 17. Sort IT students by GPA
+![image](https://github.com/user-attachments/assets/d03026c9-f21b-4174-9802-8eea1d8153ac)
+![image](https://github.com/user-attachments/assets/02369f0c-3a16-49d8-8136-679b604863e5)
+
+![image](https://github.com/user-attachments/assets/e2ffd46f-b027-4698-b94b-59957b958dd0)
+![image](https://github.com/user-attachments/assets/b07ed8f0-0ea2-4f5a-8bc5-1f36779c5c39)
 
 
 18. Sort by age in ascending order who are stydying "IT" as the degree and whose gender is "Female".
+![image](https://github.com/user-attachments/assets/10a543c9-4715-440c-9b50-5d55d31a5904)
+
+![image](https://github.com/user-attachments/assets/08fdb93e-68fc-4f22-8687-98577c749658)
+
