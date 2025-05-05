@@ -8,51 +8,54 @@ Output
 
 
 02. Insert a data set at once
-![image](https://github.com/user-attachments/assets/4670d9c2-94ee-4f66-b839-f2cb649d930f)
+   ![image](https://github.com/user-attachments/assets/00cb4f52-3a8a-4012-bcff-6f25aad83eac)
 
 
-03. Insert many data once
-![image](https://github.com/user-attachments/assets/f47d3724-a7f0-4000-ba32-156613646ea4)
-![image](https://github.com/user-attachments/assets/c969de08-1345-4e82-acec-23e3c7d31302)
+4. Insert many data once
+![image](https://github.com/user-attachments/assets/8f70f5c6-1275-4318-ba68-bc999bbaeca6)
+![image](https://github.com/user-attachments/assets/c5679975-50c9-483a-b687-52d4e619d28d)
+
+Output in Grid view
+![image](https://github.com/user-attachments/assets/296a2c92-e1bc-4e46-a266-5a26373a0df5)
 
 
-04. Find the details of all students
-![image](https://github.com/user-attachments/assets/af6c62a4-4eeb-42c5-bad6-a667a6d1d372)
-![image](https://github.com/user-attachments/assets/dbc961e0-afff-4fac-8d18-f2a36a87c7c3)
-![image](https://github.com/user-attachments/assets/ae43017c-1db8-4d02-ad99-b4a32ab4c8e2)
+6. Find the details of all students
+![image](https://github.com/user-attachments/assets/5481a58c-f79b-4fbd-9750-33a0e9a53806)
+![image](https://github.com/user-attachments/assets/eeb900d6-aac4-4b8d-af6d-27f2bda5bebb)
 
 
-05. Show only name and age of students
+
+7. Show only name and age of students
 
 
-06. Find the details of regno 2021/ict/66
+8. Find the details of regno 2021/ict/66
 
 
-07. Find only female students
+9. Find only female students
 
 
-08. Find the students whose age is greater than 23
+10. Find the students whose age is greater than 23
 
 
-09. Find the students who have skills in C++
+11. Find the students who have skills in C++
 
 
-10. Find the students who have skills in C++ and MongoDB
+12. Find the students who have skills in C++ and MongoDB
 
 
-11. Find the details of first female student
+13. Find the details of first female student
 
 
-12. Sort the student by GPA in ascending order
+14. Sort the student by GPA in ascending order
 
 
-13. Sort the students by GPA in descending order
+15. Sort the students by GPA in descending order
 
 
-14. Sort student details by GPA and name in ascending order
+16. Sort student details by GPA and name in ascending order
 
 
-15. Sort IT students by GPA
+17. Sort IT students by GPA
 
 
-16. Sort by age in ascending order who are stydying "IT" as the degree and whose gender is "Female".
+18. Sort by age in ascending order who are stydying "IT" as the degree and whose gender is "Female".
