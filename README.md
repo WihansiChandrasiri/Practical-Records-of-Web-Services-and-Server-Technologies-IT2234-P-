@@ -1,4 +1,5 @@
-#MongoDB - Degrees Collection Tutorial
+MongoDB - Degrees Collection Tutorial
+
 
 Create new collection called "Degrees" in UniDB database
 ![image](https://github.com/user-attachments/assets/4a920afd-cfb5-4c70-a231-459fd6843675)
