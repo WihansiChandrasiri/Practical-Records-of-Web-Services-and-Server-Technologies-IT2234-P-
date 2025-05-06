@@ -19,9 +19,11 @@ Create new collection called "Degrees" in UniDB database
 
 
 3.Use projection to view specific fields
+
 ![image](https://github.com/user-attachments/assets/723bce9f-e838-4aa6-bac6-a7fd2b7d95dd)
 
 4.Display results in pretty way
+
 ![image](https://github.com/user-attachments/assets/7cfb3220-7a1f-49d8-b688-8b1fcb9ad351)
 
 5.Delete Multiple degrees
