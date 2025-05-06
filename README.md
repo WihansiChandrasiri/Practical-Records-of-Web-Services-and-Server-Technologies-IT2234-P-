@@ -27,8 +27,21 @@ Create new collection called "Degrees" in UniDB database
 
 ![image](https://github.com/user-attachments/assets/134514ce-656d-4319-8eba-ce900373ee54)
 
+![image](https://github.com/user-attachments/assets/50c93b0f-c212-468c-8331-305f24903fb4)
+
+
 6.Update one degree record
+
+![image](https://github.com/user-attachments/assets/2e9fc3b8-9549-4540-b84c-b7e1dfc138b6)
 
 7.Update skills array in students collection
 
+![image](https://github.com/user-attachments/assets/cc55d693-5dd1-45d0-9eb0-e28eedf2b0b5)
+
+![image](https://github.com/user-attachments/assets/c5325198-c901-48a6-a6f8-f4d678a73a35)
+
+
 8.Update many degrees
+
+![image](https://github.com/user-attachments/assets/a1800b28-2752-4bb6-8e8c-6c3d650280dc)
+
